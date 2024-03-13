@@ -13,6 +13,8 @@ There are four pillars in oops concepts For any programming language
 - # Class 
 - A class is a set of specifications or blueprint about an entity. It defines a set of data elements and methods also called as attributes and behaviors. Use class keyword to create a class.
 
+- # Objects
+- An object is the real entity created based on class specifications. Object allows to use the data members and method prescribed the class.
 
 
 
