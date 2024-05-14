@@ -11,7 +11,7 @@ int main(){
         // cout<<(1/(i*i))<<" ";
         if (int(i)%2!=0 )
         {
-            cout<<"1/"<<i<<"^2";
+            cout<<"(1/"<<i<<")^2";
             if (i!=n)
             {
                 cout<<" - ";
@@ -22,7 +22,7 @@ int main(){
         
         else if (int(i)%2==0 )
         {
-            cout<<"1/"<<i<<"^2";
+            cout<<"(1/"<<i<<")^2";
             if (i!=n)
             {
                 cout<<" + ";
